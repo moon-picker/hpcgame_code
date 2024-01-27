@@ -1,3 +1,2 @@
-private code for moonpicker
+hpcgame code for moonpicker
 
-now is for hpcgame code 
